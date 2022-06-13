@@ -1,0 +1,5 @@
+*.pdf
+/app
+/node_modules
+package-lock.js
+package.js
